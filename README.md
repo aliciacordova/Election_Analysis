@@ -64,5 +64,9 @@ To calculate candidate votes we need to created:
 Election comision could be insterested in use this scrip in the future for other eleccion. In order to achive that we need to do some modifications. 
 
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-  - Example 1
-  - Example 2 
+
+- If we consider that the data in the future can add more columns such as sex (Female / Male) or age for example. We must create new list and dictionaries to be able to count those votes according to gender and age.
+      gender_option = []
+      gender_votes = {}
+
+- Example 2 
