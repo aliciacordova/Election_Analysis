@@ -66,7 +66,12 @@ Election comision could be insterested in use this scrip in the future for other
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
 - If we consider that the data in the future can add more columns such as sex (Female / Male) or age for example. We must create new list and dictionaries to be able to count those votes according to gender and age.
-      gender_option = []
-      gender_votes = {}
+     - gender_option = []
+     - gender_votes = {}
 
 - Example 2 
+
+
+
+## The Election Results Printed to the Command Line
+![Terminalresults](https://user-images.githubusercontent.com/87447639/131155278-a3e81473-68d0-4b85-b18a-ddcd2a47a2f1.PNG)
