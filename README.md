@@ -61,11 +61,13 @@ To calculate candidate votes we need to created:
   
 ## Election- Audit Summary
 
-Election comision could be insterested in use this scrip in the future for other eleccion. In order to achive that we can to do some modifications. 
+Election comision could be insterested in use this scrip in the future for other eleccions. In order to achive that we can to do some modifications. 
 
 - If we consider to use this scrip in the future we can modify the data and add more columns such as sex (Female / Male) or age for example. We must create new list and dictionaries to be able to count those votes according to gender and age.
      - gender_option = []
      - gender_votes = {}
+
+- We can also add "State" as a column in the data "election_results.csv", so we can calculate the total votes by state, the percentage of votes for each county over the total state. And we can obteined all the metrics analized  in this report. 
 
 ## The Election Results Printed to the Command Line
 ![Terminalresults](https://user-images.githubusercontent.com/87447639/131155278-a3e81473-68d0-4b85-b18a-ddcd2a47a2f1.PNG)
